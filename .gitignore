@@ -1,0 +1,43 @@
+# Java
+*.class
+*.jar
+*.war
+*.ear
+
+# Gradle
+.gradle/
+build/
+gradle-7.6/
+gradle-9.2.1/
+gradle85/
+.gradletasknamecache
+
+# IDE
+.idea/
+.vscode/
+*.iml
+*.ipr
+*.iws
+.project
+.classpath
+.settings/
+bin/
+
+# Claude Code
+.claude/
+
+# OS
+.DS_Store
+Thumbs.db
+nul
+
+# Build outputs
+desktop/build/
+core/build/
+*/build/
+
+# Logs
+*.log
+
+# LibGDX specific
+desktop-1.0.jar
