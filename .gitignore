@@ -23,8 +23,7 @@ gradle85/
 .settings/
 bin/
 
-# Claude Code
-.claude/
+
 
 # OS
 .DS_Store
